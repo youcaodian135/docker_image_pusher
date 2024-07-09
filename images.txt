@@ -1,9 +1,9 @@
 nginx
-rabbitmq:3.12-management
+rabbitmq
 redis
-mysql:8.0.38
+mysql
 centos
-openjdk:8u111-jdk
+openjdk
 
 
 #支持私库
