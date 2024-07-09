@@ -2,7 +2,7 @@ nginx
 rabbitmq:3.12-management
 redis
 mysql:8.0.38
-centos:latest
+centos
 openjdk:8u111-jdk
 
 
